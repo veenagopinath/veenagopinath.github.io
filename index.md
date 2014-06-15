@@ -1,28 +1,43 @@
 ---
-layout: page
-title: Veena Gopinath
-tagline: "Dermatologist (M.D)"
+layout: default
+title: Home
 ---
-{% include JB/setup %}
 
-<!--img src="/assets/images/dha2.jpeg" alt="Dhara" style="float:left; width: 80px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    border-radius: 10px;
-    margin: 10px 10px 10px 10px;
-"/-->
-
-Dr. **Veena Gopinath** is a dermatologist in Kottayam. She received her M.D. from Kottayal medical college, and has been in practice for five years.
-  
+Dr. Veena Gopinath is a dermatologist in Kottayam. She received her M.D. from gov. medical college Trivandrum, and has been in practice since 2010.
 
 ---
 
-<!--
-#### Journal<a href='https://github.com/veenagopinath/veenagopinath.github.io/tree/master/_posts/mylens'>.</a>
+### [Services]()
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
--->
+* Clinical Dermatology
+* Cosmetology
+* Chemical Peeling
+* Microdermabrasion
+* Electrosurgical Procedure
+* Treatment for Acne, Psoriasis, Allergic Disorder
+
+### [Practice]()
+
+#### H G M Hospital
+
+Muttuchira,
+Kaduthuruthy - 686604,
+Kerala
+
+##### 09:30 AM to 12:00 PM
+
+Tuesday, Wednesday, Thursday
+
+---
+
+#### St. Thomas Hospital
+
+Chethipuzha,
+Chenganacherry,
+Kerala
+
+##### 09:30 AM to 04:00 PM
+
+Monday, Wednesday, Friday
+
+<a style='font-size:60%;color:#FF00FF' href='http://hyde.getpoole.com/'>thanks</a>
