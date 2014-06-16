@@ -1,4 +1,4 @@
 git add -u
 git commit -m .
-git push -f https://veenagopinath:veenag123@github.com/veenagopinath/veenagopinath.github.io master:master
+git push https://veenagopinath:veenag123@github.com/veenagopinath/veenagopinath.github.io master:master
 

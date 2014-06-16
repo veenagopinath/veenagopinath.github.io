@@ -18,7 +18,7 @@ Dr. Veena Gopinath is a dermatologist in Kottayam. She received her M.D. from go
 
 ### [Practice]()
 
-#### H G M Hospital
+#### [H G M Hospital](http://www.hgmhospital.org/Dermatology.html)
 
 Muttuchira,
 Kaduthuruthy - 686604,
@@ -30,7 +30,7 @@ Tuesday, Wednesday, Thursday
 
 ---
 
-#### St. Thomas Hospital
+#### [St. Thomas Hospital](http://www.stthomashospital.org)
 
 Chethipuzha,
 Chenganacherry,
