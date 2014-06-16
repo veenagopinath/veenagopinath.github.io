@@ -24,9 +24,9 @@ Muttuchira,
 Kaduthuruthy - 686604,
 Kerala
 
-##### 09:30 AM to 12:00 PM
+##### 09:30 AM to 12:30 PM
 
-Tuesday, Wednesday, Thursday
+Tuesday, Thursday, Saturday
 
 ---
 
@@ -36,8 +36,9 @@ Chethipuzha,
 Chenganacherry,
 Kerala
 
-##### 09:30 AM to 04:00 PM
+##### 09:30 AM to 12:30 PM
 
 Monday, Wednesday, Friday
 
-<a style='font-size:60%;color:#FF00FF' href='http://hyde.getpoole.com/'>thanks</a>
+<a style='font-size:60%;color:#FF00FF' href='http://hyde.getpoole.com/'>thanks to Hyde</a>
+
