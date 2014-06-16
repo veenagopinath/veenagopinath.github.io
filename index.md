@@ -30,7 +30,7 @@ Tuesday, Wednesday, Thursday
 
 ---
 
-#### [St. Thomas Hospital](http://www.stthomashospital.org)
+#### [St. Thomas Hospital](http://www.st-thomashospital.net)
 
 Chethipuzha,
 Chenganacherry,
