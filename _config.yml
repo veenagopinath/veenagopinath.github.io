@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Veena
+title:            '<a href="/">Veena</a>'
 tagline:          'Dermatologist'
 description:      'Specialist in Dermatology and Cosmetology'
 
