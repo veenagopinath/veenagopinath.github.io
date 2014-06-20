@@ -16,8 +16,8 @@ Dermatologist (M.D)
 
 ## [Education]()
 
-| MD (DERMA) | Gov. Medical College Thiruvananthapuram, Kerala University | 2010 |
-| MBBS       | Govt Medical College, Trichur, Calicut University          | 2003 |
+|MD (DERMA) |Gov. Medical College Thiruvananthapuram, Kerala University |2010|
+|MBBS       |Govt Medical College, Trichur, Calicut University          |2003|
 
 
 ## [Affiliations]()
