@@ -9,12 +9,17 @@ Dr. Veena Gopinath is a dermatologist in Kottayam. She received her M.D. from go
 
 ### [Services]()
 
-* [Clinical Dermatology](/2014/01/01/skin/)
-** Treatment for Acne, Psoriasis, Allergic Disorder
-* Cosmetology
-** [Chemical Peeling](/2014/01/02/peeling/)
-** Microdermabrasion
-** Electrosurgical Procedure
+####  [Clinical Dermatology](/2014/01/01/skin/)
+
+* Treatment for Acne, Psoriasis, Allergic Disorder
+* Electrosurgical Procedure
+* Others
+
+#### Cosmetology
+
+* [Chemical Peeling](/2014/01/02/peeling/)
+* [Microdermabrasion](/2014/01/02/dermabrasion/)
+* Others
 
 ### [Practice]()
 
