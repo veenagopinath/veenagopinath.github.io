@@ -1,6 +1,6 @@
 ---
 layout: default
-title: .
+title: Dermatologist
 ---
 
 Dr. Veena Gopinath is a dermatologist in Kottayam. She received her M.D. from gov. medical college Trivandrum, and has been in practice since 2010.
