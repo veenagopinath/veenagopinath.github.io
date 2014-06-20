@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Clinical Dermatology
 header: Clinical Dermatology
 ---
