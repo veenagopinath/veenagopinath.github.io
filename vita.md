@@ -16,14 +16,14 @@ Dermatologist (M.D)
 
 ## [Education]()
 
-|MD (DERMA) |Gov. Medical College Thiruvananthapuram, Kerala University |2010|
-|MBBS       |Govt Medical College, Trichur, Calicut University          |2003|
+|MD (DERMA) |Gov. Medical College Thiruvananthapuram, [Kerala University](http://www.keralauniversity.ac.in/) |2010|
+|MBBS       |Gov. Medical College Trissur, [Calicut University](http://www.universityofcalicut.info/) |2003|
 
 
 ## [Affiliations]()
 
-* IMA Life Member
-* IADVL Life member
+* [IMA](http://www.ima-india.org/) Life Member
+* [IADVL](http://iadvl.org/) Life member
 
 ## [Experience]()
 
