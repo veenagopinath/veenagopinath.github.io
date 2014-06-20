@@ -7,9 +7,9 @@
     </div>
 
     <ul class="sidebar-nav">
-      <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
+      <!--li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
         <a href="/">Home</a>
-      </li>
+      </li-->
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -18,8 +18,7 @@
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
-        {%assign pagename = node.title | strip_html %}
-        {% if pagename != null and pagename != 'Posts' and pagename != 'Home' %}
+        {% if node.title != null and node.title != 'Posts' %}
           {% if node.layout == "page" %}
             <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
               <a href="{{ node.url }}">{{ node.title }}</a>
