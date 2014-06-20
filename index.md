@@ -9,7 +9,7 @@ Dr. Veena Gopinath is a dermatologist in Kottayam. She received her M.D. from go
 
 ### [Services]()
 
-* Clinical Dermatology
+* [Clinical Dermatology](/dermatology)
 * Cosmetology
 * Chemical Peeling
 * Microdermabrasion
