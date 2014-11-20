@@ -24,6 +24,7 @@ Dermatologist (M.D)
 
 * [IMA](http://www.ima-india.org/) Life Member
 * [IADVL](http://iadvl.org/) Life member
+* [ASI](http://asiindia.org/) member
 
 ## [Experience]()
 
